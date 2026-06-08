@@ -1,3 +1,5 @@
+TO make
+
 # task 3
 #include <stdio.h>
 #include <stdlib.h>
