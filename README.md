@@ -1,4 +1,4 @@
-TO make
+TO make student
 
 # task 3
 #include <stdio.h>
