@@ -1,4 +1,5 @@
-TO make student
+TO make student management
+
 
 # task 3
 #include <stdio.h>
